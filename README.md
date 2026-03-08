@@ -21,7 +21,7 @@ Built a feedforward neural network from first principles in Python to classify h
 | Best Configuration | `700` hidden nodes, learning rate `0.1`, `7` epochs |
 | Best Test Accuracy | **97.48%** |
 
-## What I Actually Built
+## Workflow
 
 - Loaded and explored raw MNIST CSV data using Pandas
 - Visualized 28x28 grayscale digit images with Matplotlib
